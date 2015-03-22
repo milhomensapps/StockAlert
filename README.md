@@ -1,7 +1,7 @@
 # Stock Alert Repository
 This repository contains the shared files of the Stocks Alert Formula App from Milhomens Apps.
 
-You can the app on Google Play at:
+You can get the app from  Google Play at:
 https://play.google.com/store/apps/details?id=cat.obiols.milhomens.BorsaValors
 
 You can add a market to the list at the markets.xml and you can update the stocks from a market it the files defined in the other files.
