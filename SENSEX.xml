@@ -1,0 +1,32 @@
+<string-array name="Sensex">
+        <item>^BSESN@BSE SENSEX </item>
+        <item>AXISBANK.BO@Axis Bank Ltd</item>
+        <item>BAJAJ-AUTO.BO@Bajaj Auto Ltd</item>
+        <item>BHEL.BO@Bharat Heavy Electricals Ltd</item>
+        <item>BHARTIARTL.BO@Bharti Airtel Ltd</item>
+        <item>CIPLA.BO@Cipla Ltd</item>
+        <item>COALINDIA.BO@Coal India Ltd</item>
+        <item>DRREDDY.BO@Dr.Reddys Laboratories Ltd</item>
+        <item>GAIL.BO@GAIL (India) Ltd</item>
+        <item>HDFCBANK.BO@HDFC Bank Ltd</item>
+        <item>HEROMOTOCO.BO@Hero MotoCorp Ltd</item>
+        <item>HINDALCO.BO@Hindalco Industries Ltd</item>
+        <item>HINDUNILVR.BO@Hindustan Unilever Ltd</item>
+        <item>HDFC.BO@Housing Development Finance Corporation Ltd</item>
+        <item>ICICIBANK.BO@ICICI Bank Ltd</item>
+        <item>INFY.BO@Infosys Ltd</item>
+        <item>ITC.BO@ITC Ltd</item>
+        <item>LT.BO@Larsen and Toubro Ltd</item>
+        <item>MARUTI.BO@Maruti Suzuki India Ltd</item>
+        <item>NTPC.BO@NTPC Ltd</item>
+        <item>ONGC.BO@Oil and Natural Gas Corporation Ltd</item>
+        <item>RELIANCE.BO@Reliance Industries Ltd</item>
+        <item>SSLT.BO@Sesa Goa Ltd</item>
+        <item>SBIN.BO@State Bank of India</item>
+        <item>SUNPHARMA.BO@Sun Pharmaceutical Industries Ltd</item>
+        <item>TCS.BO@Tata Consultancy Services Ltd</item>
+        <item>TATAMOTORS.BO@Tata Motors Ltd</item>
+        <item>TATAPOWER.BO@Tata Power Company Ltd</item>
+        <item>TATASTEEL.BO@Tata Steel Ltd</item>
+        <item>WIPRO.BO@Wipro Ltd</item>
+    </string-array>
