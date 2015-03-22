@@ -1,0 +1,73 @@
+ <string-array name="Merval">
+        <item>^MERV@MERVAL Buenos Aires</item>
+        <item>AGRO.BA@Agrometal S.A.I.</item>
+        <item>ALUA.BA@Aluar Aluminio Argentino S.A.I.C.</item>
+        <item>APBR.BA@Petróleo Brasileiro S.A. - Petrobras</item>
+        <item>APSA.BA@Alto Palermo S.A.</item>
+        <item>AUSO.BA@Autopistas Del Sol SA</item>
+        <item>BHIP.BA@Banco Hipotecario S.A.</item>
+        <item>BMA.BA@Banco Macro S.A.</item>
+        <item>BOLT.BA@Boldt S.A.</item>
+        <item>BPAT.BA@Banco Patagonia S.A.</item>
+        <item>BRIO.BA@Banco Santander Rio S.A.</item>
+        <item>CADO.BA@Carlos Casado S.A.</item>
+        <item>CAPU.BA@Caputo S.A.I.C. y F.</item>
+        <item>CAPX.BA@Capex S.A.</item>
+        <item>CARC.BA@Carboclor S.A.</item>
+        <item>CECO2.BA@Endesa Costanera SA</item>
+        <item>CELU.BA@Celulosa Argentina S.A.</item>
+        <item>CEPU2.BA@Central Puerto S.A.</item>
+        <item>CGPA2.BA@Camuzzi Gas Pampeana S.A.</item>
+        <item>COLO.BA@Colorin Industria de Materiales Sinteticos S.A.</item>
+        <item>COME.BA@Sociedad Comercial del Plata S.A.</item>
+        <item>CRES.BA@Cresud Sociedad Anónima Comercial, Inmobiliaria, Financiera y Agropecuaria</item>
+        <item>CTIO.BA@Consultatio S.A.</item>
+        <item>DOME.BA@DOMEC Cía De Artefactos Domesticos Sociedad Anonima Industrial Comercial y Financiera</item>
+        <item>DYCA.BA@Dycasa SA</item>
+        <item>EDN.BA@EMP.DIST.Y COM.NORTE</item>
+        <item>ERAR.BA@Ternium Siderar</item>
+        <item>ESME.BA@Bodegas Esmeralda S.A.</item>
+        <item>ESTR.BA@Angel Estrada y Compania S.A.</item>
+        <item>FERR.BA@Ferrum Sociedad Anonima de Ceramica y Metalurgia</item>
+        <item>FIPL.BA@Fiplasto S.A.</item>
+        <item>FRAN.BA@BBVA Banco Francés SA</item>
+        <item>GARO.BA@Garovaglio y Zorraquin S.A.</item>
+        <item>GBAN.BA@Gas Natural Ban, S.A.</item>
+        <item>GCLA.BA@Grupo Clarín S.A.</item>
+        <item>GGAL.BA@Grupo Financiero Galicia S.A.</item>
+        <item>GRIM.BA@Grimoldi S.A.</item>
+        <item>INDU.BA@Solvay Indupa S.A.I.C.</item>
+        <item>INTR.BA@Compania Introductora de Buenos Aires Sociedad Anonima</item>
+        <item>INVJ.BA@Inversora Juramento S.A.</item>
+        <item>IRSA.BA@IRSA Investments and Representations Inc.</item>
+        <item>JMIN.BA@Holcim</item>
+        <item>LEDE.BA@Ledesma Sociedad Anónima Agrícola Industrial</item>
+        <item>LONG.BA@Longvie S.A.</item>
+        <item>METR.BA@MetroGAS S.A.</item>
+        <item>MIRG.BA@Mirgor S.A.C.I.F.I.A.</item>
+        <item>MOLI.BA@Molinos Rio de la Plata S.A.</item>
+        <item>MORI.BA@Morixe Hermanos S.A.C. e I.</item>
+        <item>OEST.BA@Grupo Concesionario del Oeste S.A.</item>
+        <item>PAMP.BA@Pampa Energia SA</item>
+        <item>PATA.BA@Sociedad Anonima Importadora y Exportadora de la Patagonia</item>
+        <item>PATY.BA@Quickfood Sociedad Anonima</item>
+        <item>PERK.BA@Pertrak S.A.</item>
+        <item>PESA.BA@Petrobras Argentina SA</item>
+        <item>PETR.BA@Petrolera Pampa S.A.</item>
+        <item>POLL.BA@Polledo S.A.I.C. y F.</item>
+        <item>PSUR.BA@Petrolera del Conosur S.A.</item>
+        <item>REP.BA@Repsol, S.A.</item>
+        <item>RIGO.BA@Rigolleau S.A.</item>
+        <item>ROSE.BA@Instituto Rosenbusch S.A.</item>
+        <item>SAMI.BA@S.A. San Miguel A.G.I.C.I. y F.</item>
+        <item>SEMI.BA@Molinos Juan Semino S.A.</item>
+        <item>STD.BA@Banco Santander, S.A.</item>
+        <item>TECO2.BA@Telecom Argentina S.A.</item>
+        <item>TEF.BA@Telefónica, S.A.</item>
+        <item>TGLT.BA@TGLT S.A.</item>
+        <item>TGNO4.BA@Transportadora de Gas del Norte S.A.</item>
+        <item>TGSU2.BA@Transportadora de Gas Del Sur S.A.</item>
+        <item>TRAN.BA@Compania de Transporte de Energia Electrica en Alta Tension Transener</item>
+        <item>TS.BA@Tenaris SA</item>
+        <item>YPFD.BA@YPF S.A.</item>
+    </string-array>
