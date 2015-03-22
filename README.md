@@ -19,9 +19,9 @@ For example:
 
     To update a stock in the Mercado Continuo we should change MC.xml file.
     
-    Grifols Symbol at the Mercado Continuo is  GRF.MC . 
+    Grifols Symbol at the Mercado Continuo is  GRF.MC 
     
-    The URL to get Grifols information would be  http://finance.yahoo.com/q?s=GRF.MC .
+    The URL to get Grifols information would be  http://finance.yahoo.com/q?s=GRF.MC 
 
 Remeber that the  **Symbols** contained in every file, **have to match with** the symbols that uses **Yahoo Finance**.
 
