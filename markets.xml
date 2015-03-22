@@ -1,0 +1,26 @@
+<string-array name="InernationalIndexes">
+        <item name="^MERV">Argentina - MERVAL Buenos Aires</item>
+        <item name="^BVSP">Brasil - Bovespa</item>
+        <item name="^HSI">China - HANG SENG Index </item>
+        <item name="^FCHI">France - CAC 40</item>
+        <item name="^GDAXI">Germany - DAX </item>
+        <item name="^BSESN">India - BSE Sensex</item>
+        <item name="^NSEI">India - CNX Nifty Index</item>
+        <item name="^TA100">Isrrael - Tel Aviv TA-100</item>
+        <item name="FTSEMIB.MI">Italy - FTSE MIB</item>
+        <item name="^MXX">Mexico - IPC </item>
+        <item name="^AEX">Nederland - AEX</item>
+        <item name="^NZ50">New Zeland - ZX 50 Index GROSS</item>
+        <item name="^OSEAX">Norway - OSLO Exch All Share</item>
+        <item name="PSI20.LS">Portugal - PSI20</item>
+        <item name="^JKSE">Singapur - Jakarta Composite Index</item>
+        <item name="^IBEX">Spain - IBEX 35</item>
+        <item name="^MC">Spain - Mercado Continuo</item>
+        <item name="^OMXSPI">Sweeden - OMXS30</item>
+        <item name="^SSMI">Switzerland - SMI</item>
+        <item name="^FTSE">UK - FTSE 100</item>
+        <item name="^FTAS">UK - FTSE ALL SHARES</item>
+        <item name="^DJI">USA - Dow Jones Industrial</item>
+        <item name="^NDX">USA - Nasdaq</item>
+        <item name="^GSPC">USA - S&amp;P 500</item>
+    </string-array>
