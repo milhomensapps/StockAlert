@@ -1,0 +1,505 @@
+<string-array name="StandardPoors">
+        <item>^GSPC@S&amp;P 500</item>
+        <item>A@Agilent Technologies Inc.</item>
+        <item>AA@Alcoa Inc.</item>
+        <item>AAPL@Apple Inc.</item>
+        <item>ABBV@AbbVie Inc.</item>
+        <item>ABC@AmerisourceBergen Corporation</item>
+        <item>ABT@Abbott Laboratories</item>
+        <item>ACE@ACE Limited</item>
+        <item>ACN@Accenture plc</item>
+        <item>ACT@Actavis plc</item>
+        <item>ADBE@Adobe Systems Incorporated</item>
+        <item>ADI@Analog Devices, Inc.</item>
+        <item>ADM@Archer-Daniels-Midland Company</item>
+        <item>ADP@Automatic Data Processing, Inc.</item>
+        <item>ADS@Alliance Data Systems Corporation</item>
+        <item>ADSK@Autodesk, Inc.</item>
+        <item>ADT@The ADT Corporation</item>
+        <item>AEE@Ameren Corporation</item>
+        <item>AEP@American Electric Power Co., Inc.</item>
+        <item>AES@The AES Corporation</item>
+        <item>AET@Aetna Inc.</item>
+        <item>AFL@AFLAC Inc.</item>
+        <item>AGN@Allergan Inc.</item>
+        <item>AIG@American International Group, Inc.</item>
+        <item>AIV@Apartment Investment and Management Company</item>
+        <item>AIZ@Assurant Inc.</item>
+        <item>AKAM@Akamai Technologies, Inc.</item>
+        <item>ALL@The Allstate Corporation</item>
+        <item>ALLE@Allegion plc Ordinary Shares</item>
+        <item>ALTR@Altera Corp.</item>
+        <item>ALXN@Alexion Pharmaceuticals, Inc.</item>
+        <item>AMAT@Applied Materials, Inc.</item>
+        <item>AME@Ametek Inc.</item>
+        <item>AMG@Affiliated Managers Group Inc.</item>
+        <item>AMGN@Amgen Inc.</item>
+        <item>AMP@Ameriprise Financial, Inc.</item>
+        <item>AMT@American Tower Corporation</item>
+        <item>AMZN@Amazon.com Inc.</item>
+        <item>AN@AutoNation Inc.</item>
+        <item>ANTM@Anthem, Inc.</item>
+        <item>AON@Aon plc</item>
+        <item>APA@Apache Corp.</item>
+        <item>APC@Anadarko Petroleum Corporation</item>
+        <item>APD@Air Products &amp; Chemicals Inc.</item>
+        <item>APH@Amphenol Corporation</item>
+        <item>ARG@Airgas, Inc.</item>
+        <item>ATI@Allegheny Technologies Inc.</item>
+        <item>AVB@Avalonbay Communities Inc.</item>
+        <item>AVGO@Avago Technologies Limited</item>
+        <item>AVP@Avon Products Inc.</item>
+        <item>AVY@Avery Dennison Corporation</item>
+        <item>AXP@American Express Company</item>
+        <item>AZO@AutoZone, Inc.</item>
+        <item>BA@The Boeing Company</item>
+        <item>BAC@Bank of America Corporation</item>
+        <item>BAX@Baxter International Inc.</item>
+        <item>BBBY@Bed Bath &amp; Beyond Inc.</item>
+        <item>BBT@BB&amp;T Corporation</item>
+        <item>BBY@Best Buy Co., Inc.</item>
+        <item>BCR@CR Bard Inc.</item>
+        <item>BDX@Becton, Dickinson and Company</item>
+        <item>BEN@Franklin Resources, Inc.</item>
+        <item>BF-B@Brown-Forman Corporation</item>
+        <item>BHI@Baker Hughes Incorporated</item>
+        <item>BIIB@Biogen Idec Inc.</item>
+        <item>BK@The Bank of New York Mellon Corporation</item>
+        <item>BLK@BlackRock, Inc.</item>
+        <item>BLL@Ball Corporation</item>
+        <item>BMY@Bristol-Myers Squibb Company</item>
+        <item>BRCM@Broadcom Corp.</item>
+        <item>BRK-B@Berkshire Hathaway Inc.</item>
+        <item>BSX@Boston Scientific Corporation</item>
+        <item>BWA@BorgWarner Inc.</item>
+        <item>BXP@Boston Properties Inc.</item>
+        <item>C@Citigroup Inc.</item>
+        <item>CA@CA Technologies, Inc.</item>
+        <item>CAG@ConAgra Foods, Inc.</item>
+        <item>CAH@Cardinal Health, Inc.</item>
+        <item>CAM@Cameron International Corporation</item>
+        <item>CAT@Caterpillar Inc.</item>
+        <item>CB@The Chubb Corporation</item>
+        <item>CBG@CBRE Group, Inc.</item>
+        <item>CBS@CBS Corporation</item>
+        <item>CCE@Coca-Cola Enterprises Inc.</item>
+        <item>CCI@Crown Castle International Corp.</item>
+        <item>CCL@Carnival Corporation</item>
+        <item>CELG@Celgene Corporation</item>
+        <item>CERN@Cerner Corporation</item>
+        <item>CF@CF Industries Holdings, Inc.</item>
+        <item>CFN@CareFusion Corporation</item>
+        <item>CHK@Chesapeake Energy Corporation</item>
+        <item>CHRW@CH Robinson Worldwide Inc.</item>
+        <item>CI@Cigna Corp.</item>
+        <item>CINF@Cincinnati Financial Corp.</item>
+        <item>CL@Colgate-Palmolive Co.</item>
+        <item>CLX@The Clorox Company</item>
+        <item>CMA@Comerica Incorporated</item>
+        <item>CMCSA@Comcast Corporation</item>
+        <item>CME@CME Group Inc.</item>
+        <item>CMG@Chipotle Mexican Grill, Inc.</item>
+        <item>CMI@Cummins Inc.</item>
+        <item>CMS@CMS Energy Corp.</item>
+        <item>CNP@CenterPoint Energy, Inc.</item>
+        <item>CNX@CONSOL Energy Inc.</item>
+        <item>COF@Capital One Financial Corporation</item>
+        <item>COG@Cabot Oil &amp; Gas Corporation</item>
+        <item>COH@Coach, Inc.</item>
+        <item>COL@Rockwell Collins Inc.</item>
+        <item>COP@ConocoPhillips</item>
+        <item>COST@Costco Wholesale Corporation</item>
+        <item>COV@Covidien plc</item>
+        <item>CPB@Campbell Soup Company</item>
+        <item>CRM@salesforce.com, inc.</item>
+        <item>CSC@Computer Sciences Corporation</item>
+        <item>CSCO@Cisco Systems, Inc.</item>
+        <item>CSX@CSX Corp.</item>
+        <item>CTAS@Cintas Corporation</item>
+        <item>CTL@CenturyLink, Inc.</item>
+        <item>CTSH@Cognizant Technology Solutions Corporation</item>
+        <item>CTXS@Citrix Systems, Inc.</item>
+        <item>CVC@Cablevision Systems Corporation</item>
+        <item>CVS@CVS Health Corporation</item>
+        <item>CVX@Chevron Corporation</item>
+        <item>D@Dominion Resources, Inc.</item>
+        <item>DAL@Delta Air Lines, Inc.</item>
+        <item>DD@E. I. du Pont de Nemours and Company</item>
+        <item>DE@Deere &amp; Company</item>
+        <item>DFS@Discover Financial Services</item>
+        <item>DG@Dollar General Corporation</item>
+        <item>DGX@Quest Diagnostics Inc.</item>
+        <item>DHI@DR Horton Inc.</item>
+        <item>DHR@Danaher Corp.</item>
+        <item>DIS@The Walt Disney Company</item>
+        <item>DISCA@Discovery Communications, Inc.</item>
+        <item>DISCK@Discovery Communications, Inc.</item>
+        <item>DLPH@Delphi Automotive PLC</item>
+        <item>DLTR@Dollar Tree, Inc.</item>
+        <item>DNB@Dun &amp; Bradstreet Corp.</item>
+        <item>DNR@Denbury Resources Inc.</item>
+        <item>DO@Diamond Offshore Drilling, Inc.</item>
+        <item>DOV@Dover Corporation</item>
+        <item>DOW@The Dow Chemical Company</item>
+        <item>DPS@Dr Pepper Snapple Group, Inc.</item>
+        <item>DRI@Darden Restaurants, Inc.</item>
+        <item>DTE@DTE Energy Company</item>
+        <item>DTV@DIRECTV</item>
+        <item>DUK@Duke Energy Corporation</item>
+        <item>DVA@DaVita HealthCare Partners Inc.</item>
+        <item>DVN@Devon Energy Corporation</item>
+        <item>EA@Electronic Arts Inc.</item>
+        <item>EBAY@eBay Inc.</item>
+        <item>ECL@Ecolab Inc.</item>
+        <item>ED@Consolidated Edison, Inc.</item>
+        <item>EFX@Equifax Inc.</item>
+        <item>EIX@Edison International</item>
+        <item>EL@The Estée Lauder Companies Inc.</item>
+        <item>EMC@EMC Corporation</item>
+        <item>EMN@Eastman Chemical Co.</item>
+        <item>EMR@Emerson Electric Co.</item>
+        <item>EOG@EOG Resources, Inc.</item>
+        <item>EQR@Equity Residential</item>
+        <item>EQT@EQT Corporation</item>
+        <item>ESRX@Express Scripts Holding Company</item>
+        <item>ESS@Essex Property Trust Inc.</item>
+        <item>ESV@Ensco plc</item>
+        <item>ETFC@E*TRADE Financial Corporation</item>
+        <item>ETN@Eaton Corporation plc</item>
+        <item>ETR@Entergy Corporation</item>
+        <item>EW@Edwards Lifesciences Corp.</item>
+        <item>EXC@Exelon Corporation</item>
+        <item>EXPD@Expeditors International of Washington Inc.</item>
+        <item>EXPE@Expedia Inc.</item>
+        <item>F@Ford Motor Co.</item>
+        <item>FAST@Fastenal Company</item>
+        <item>FB@Facebook, Inc.</item>
+        <item>FCX@Freeport-McMoRan Inc.</item>
+        <item>FDO@Family Dollar Stores Inc.</item>
+        <item>FDX@FedEx Corporation</item>
+        <item>FE@FirstEnergy Corp.</item>
+        <item>FFIV@F5 Networks, Inc.</item>
+        <item>FIS@Fidelity National Information Services, Inc.</item>
+        <item>FISV@Fiserv, Inc.</item>
+        <item>FITB@Fifth Third Bancorp</item>
+        <item>FLIR@FLIR Systems, Inc.</item>
+        <item>FLR@Fluor Corporation</item>
+        <item>FLS@Flowserve Corp.</item>
+        <item>FMC@FMC Corp.</item>
+        <item>FOSL@Fossil Group, Inc.</item>
+        <item>FOXA@Twenty-First Century Fox, Inc.</item>
+        <item>FSLR@First Solar, Inc.</item>
+        <item>FTI@FMC Technologies, Inc.</item>
+        <item>FTR@Frontier Communications Corporation</item>
+        <item>GAS@AGL Resources Inc.</item>
+        <item>GCI@Gannett Co., Inc.</item>
+        <item>GD@General Dynamics Corporation</item>
+        <item>GE@General Electric Company</item>
+        <item>GGP@General Growth Properties, Inc</item>
+        <item>GILD@Gilead Sciences Inc.</item>
+        <item>GIS@General Mills, Inc.</item>
+        <item>GLW@Corning Inc.</item>
+        <item>GM@General Motors Company</item>
+        <item>GMCR@Keurig Green Mountain, Inc.</item>
+        <item>GME@GameStop Corp.</item>
+        <item>GNW@Genworth Financial, Inc.</item>
+        <item>GOOG@Google Inc.</item>
+        <item>GOOGL@Google Inc.</item>
+        <item>GPC@Genuine Parts Company</item>
+        <item>GPS@The Gap, Inc.</item>
+        <item>GRMN@Garmin Ltd.</item>
+        <item>GS@The Goldman Sachs Group, Inc.</item>
+        <item>GT@The Goodyear Tire &amp; Rubber Company</item>
+        <item>GWW@W.W. Grainger, Inc.</item>
+        <item>HAL@Halliburton Company</item>
+        <item>HAR@Harman International Industries, Incorporated</item>
+        <item>HAS@Hasbro Inc.</item>
+        <item>HBAN@Huntington Bancshares Incorporated</item>
+        <item>HCBK@Hudson City Bancorp, Inc.</item>
+        <item>HCN@Health Care REIT, Inc.</item>
+        <item>HCP@HCP, Inc.</item>
+        <item>HD@The Home Depot, Inc.</item>
+        <item>HES@Hess Corporation</item>
+        <item>HIG@The Hartford Financial Services Group, Inc.</item>
+        <item>HOG@Harley-Davidson, Inc.</item>
+        <item>HON@Honeywell International Inc.</item>
+        <item>HOT@Starwood Hotels &amp; Resorts Worldwide Inc.</item>
+        <item>HP@Helmerich &amp; Payne, Inc.</item>
+        <item>HPQ@Hewlett-Packard Company</item>
+        <item>HRB@H&amp;R Block, Inc.</item>
+        <item>HRL@Hormel Foods Corporation</item>
+        <item>HRS@Harris Corporation</item>
+        <item>HSP@Hospira Inc.</item>
+        <item>HST@Host Hotels &amp; Resorts, Inc.</item>
+        <item>HSY@The Hershey Company</item>
+        <item>HUM@Humana Inc.</item>
+        <item>IBM@International Business Machines Corporation</item>
+        <item>ICE@Intercontinental Exchange, Inc.</item>
+        <item>IFF@International Flavors &amp; Fragrances Inc.</item>
+        <item>INTC@Intel Corporation</item>
+        <item>INTU@Intuit Inc.</item>
+        <item>IP@International Paper Company</item>
+        <item>IPG@The Interpublic Group of Companies, Inc.</item>
+        <item>IR@Ingersoll-Rand Plc</item>
+        <item>IRM@Iron Mountain Inc.</item>
+        <item>ISRG@Intuitive Surgical, Inc.</item>
+        <item>ITW@Illinois Tool Works Inc.</item>
+        <item>IVZ@Invesco Ltd.</item>
+        <item>JCI@Johnson Controls Inc.</item>
+        <item>JEC@Jacobs Engineering Group Inc.</item>
+        <item>JNJ@Johnson &amp; Johnson</item>
+        <item>JNPR@Juniper Networks, Inc.</item>
+        <item>JOY@Joy Global, Inc.</item>
+        <item>JPM@JPMorgan Chase &amp; Co.</item>
+        <item>JWN@Nordstrom Inc.</item>
+        <item>K@Kellogg Company</item>
+        <item>KEY@KeyCorp.</item>
+        <item>KIM@Kimco Realty Corporation</item>
+        <item>KLAC@KLA-Tencor Corporation</item>
+        <item>KMB@Kimberly-Clark Corporation</item>
+        <item>KMI@Kinder Morgan, Inc.</item>
+        <item>KMX@CarMax Inc.</item>
+        <item>KO@The Coca-Cola Company</item>
+        <item>KORS@Michael Kors Holdings Limited</item>
+        <item>KR@The Kroger Co.</item>
+        <item>KRFT@Kraft Foods Group, Inc.</item>
+        <item>KSS@Kohl\'s Corp.</item>
+        <item>KSU@Kansas City Southern</item>
+        <item>L@Loews Corporation</item>
+        <item>LB@L Brands, Inc.</item>
+        <item>LEG@Leggett &amp; Platt, Incorporated</item>
+        <item>LEN@Lennar Corp.</item>
+        <item>LH@Laboratory Corp. of America Holdings</item>
+        <item>LLL@L-3 Communications Holdings Inc.</item>
+        <item>LLTC@Linear Technology Corporation</item>
+        <item>LLY@Eli Lilly and Company</item>
+        <item>LM@Legg Mason Inc.</item>
+        <item>LMT@Lockheed Martin Corporation</item>
+        <item>LNC@Lincoln National Corporation</item>
+        <item>LO@Lorillard, Inc.</item>
+        <item>LOW@Lowe\'s Companies Inc.</item>
+        <item>LRCX@Lam Research Corporation</item>
+        <item>LUK@Leucadia National Corporation</item>
+        <item>LUV@Southwest Airlines Co.</item>
+        <item>LVLT@Level 3 Communications, Inc.</item>
+        <item>LYB@LyondellBasell Industries N.V.</item>
+        <item>M@Macy\'s, Inc.</item>
+        <item>MA@MasterCard Incorporated</item>
+        <item>MAC@The Macerich Company</item>
+        <item>MAR@Marriott International, Inc.</item>
+        <item>MAS@Masco Corporation</item>
+        <item>MAT@Mattel, Inc.</item>
+        <item>MCD@McDonald\'s Corp.</item>
+        <item>MCHP@Microchip Technology Inc.</item>
+        <item>MCK@McKesson Corporation</item>
+        <item>MCO@Moody\'s Corporation</item>
+        <item>MDLZ@Mondelez International, Inc.</item>
+        <item>MDT@Medtronic, Inc.</item>
+        <item>MET@MetLife, Inc.</item>
+        <item>MHFI@McGraw Hill Financial, Inc.</item>
+        <item>MHK@Mohawk Industries Inc.</item>
+        <item>MJN@Mead Johnson Nutrition Company</item>
+        <item>MKC@McCormick &amp; Company, Incorporated</item>
+        <item>MLM@Martin Marietta Materials Inc.</item>
+        <item>MMC@Marsh &amp; McLennan Companies, Inc.</item>
+        <item>MMM@3M Company</item>
+        <item>MNK@Mallinckrodt public limited company</item>
+        <item>MNST@Monster Beverage Corporation</item>
+        <item>MO@Altria Group Inc.</item>
+        <item>MON@Monsanto Company</item>
+        <item>MOS@The Mosaic Company</item>
+        <item>MPC@Marathon Petroleum Corporation</item>
+        <item>MRK@Merck &amp; Co. Inc.</item>
+        <item>MRO@Marathon Oil Corporation</item>
+        <item>MS@Morgan Stanley</item>
+        <item>MSFT@Microsoft Corporation</item>
+        <item>MSI@Motorola Solutions, Inc.</item>
+        <item>MTB@M&amp;T Bank Corporation</item>
+        <item>MU@Micron Technology, Inc.</item>
+        <item>MUR@Murphy Oil Corporation</item>
+        <item>MWV@MeadWestvaco Corporation</item>
+        <item>MYL@Mylan, Inc.</item>
+        <item>NAVI@Navient Corporation</item>
+        <item>NBL@Noble Energy, Inc.</item>
+        <item>NBR@Nabors Industries Ltd.</item>
+        <item>NDAQ@The Nasdaq OMX Group, Inc.</item>
+        <item>NE@Noble Corp.</item>
+        <item>NEE@NextEra Energy, Inc.</item>
+        <item>NEM@Newmont Mining Corporation</item>
+        <item>NFLX@Netflix, Inc.</item>
+        <item>NFX@Newfield Exploration Co.</item>
+        <item>NI@NiSource Inc.</item>
+        <item>NKE@Nike, Inc.</item>
+        <item>NLSN@Nielsen N.V.</item>
+        <item>NOC@Northrop Grumman Corporation</item>
+        <item>NOV@National Oilwell Varco, Inc.</item>
+        <item>NRG@NRG Energy, Inc.</item>
+        <item>NSC@Norfolk Southern Corporation</item>
+        <item>NTAP@NetApp, Inc.</item>
+        <item>NTRS@Northern Trust Corporation</item>
+        <item>NU@Northeast Utilities</item>
+        <item>NUE@Nucor Corporation</item>
+        <item>NVDA@NVIDIA Corporation</item>
+        <item>NWL@Newell Rubbermaid Inc.</item>
+        <item>NWSA@News Corporation</item>
+        <item>OI@Owens-Illinois, Inc.</item>
+        <item>OKE@ONEOK Inc.</item>
+        <item>OMC@Omnicom Group Inc.</item>
+        <item>ORCL@Oracle Corporation</item>
+        <item>ORLY@O\'Reilly Automotive Inc.</item>
+        <item>OXY@Occidental Petroleum Corporation</item>
+        <item>PAYX@Paychex, Inc.</item>
+        <item>PBCT@People\'s United Financial Inc.</item>
+        <item>PBI@Pitney Bowes Inc.</item>
+        <item>PCAR@PACCAR Inc.</item>
+        <item>PCG@PG&amp;E Corporation</item>
+        <item>PCL@Plum Creek Timber Co. Inc.</item>
+        <item>PCLN@The Priceline Group Inc.</item>
+        <item>PCP@Precision Castparts Corp.</item>
+        <item>PDCO@Patterson Companies, Inc.</item>
+        <item>PEG@Public Service Enterprise Group Inc.</item>
+        <item>PEP@Pepsico, Inc.</item>
+        <item>PETM@PetSmart, Inc.</item>
+        <item>PFE@Pfizer Inc.</item>
+        <item>PFG@Principal Financial Group Inc.</item>
+        <item>PG@The Procter &amp; Gamble Company</item>
+        <item>PGR@Progressive Corp.</item>
+        <item>PH@Parker-Hannifin Corporation</item>
+        <item>PHM@PulteGroup, Inc.</item>
+        <item>PKI@PerkinElmer Inc.</item>
+        <item>PLD@Prologis, Inc.</item>
+        <item>PLL@Pall Corporation</item>
+        <item>PM@Philip Morris International, Inc.</item>
+        <item>PNC@The PNC Financial Services Group, Inc.</item>
+        <item>PNR@Pentair plc</item>
+        <item>PNW@Pinnacle West Capital Corporation</item>
+        <item>POM@Pepco Holdings, Inc.</item>
+        <item>PPG@PPG Industries Inc.</item>
+        <item>PPL@PPL Corporation</item>
+        <item>PRGO@Perrigo Company Public Limited Company</item>
+        <item>PRU@Prudential Financial, Inc.</item>
+        <item>PSA@Public Storage</item>
+        <item>PSX@Phillips 66</item>
+        <item>PVH@PVH Corp.</item>
+        <item>PWR@Quanta Services, Inc.</item>
+        <item>PX@Praxair Inc.</item>
+        <item>PXD@Pioneer Natural Resources Co.</item>
+        <item>QCOM@QUALCOMM Incorporated</item>
+        <item>QEP@QEP Resources, Inc.</item>
+        <item>R@Ryder System, Inc.</item>
+        <item>RAI@Reynolds American Inc.</item>
+        <item>RCL@Royal Caribbean Cruises Ltd.</item>
+        <item>REGN@Regeneron Pharmaceuticals, Inc.</item>
+        <item>RF@Regions Financial Corporation</item>
+        <item>RHI@Robert Half International Inc.</item>
+        <item>RHT@Red Hat, Inc.</item>
+        <item>RIG@Transocean Ltd.</item>
+        <item>RL@Ralph Lauren Corporation</item>
+        <item>ROK@Rockwell Automation Inc.</item>
+        <item>ROP@Roper Industries Inc.</item>
+        <item>ROST@Ross Stores Inc.</item>
+        <item>RRC@Range Resources Corporation</item>
+        <item>RSG@Republic Services, Inc.</item>
+        <item>RTN@Raytheon Company</item>
+        <item>SBUX@Starbucks Corporation</item>
+        <item>SCG@SCANA Corp.</item>
+        <item>SCHW@The Charles Schwab Corporation</item>
+        <item>SE@Spectra Energy Corp.</item>
+        <item>SEE@Sealed Air Corporation</item>
+        <item>SHW@The Sherwin-Williams Company</item>
+        <item>SIAL@Sigma-Aldrich Corporation</item>
+        <item>SJM@The J. M. Smucker Company</item>
+        <item>SLB@Schlumberger Limited</item>
+        <item>SNA@Snap-on Incorporated</item>
+        <item>SNDK@SanDisk Corp.</item>
+        <item>SNI@Scripps Networks Interactive, Inc.</item>
+        <item>SO@Southern Company</item>
+        <item>SPG@Simon Property Group Inc.</item>
+        <item>SPLS@Staples, Inc.</item>
+        <item>SRCL@Stericycle, Inc.</item>
+        <item>SRE@Sempra Energy</item>
+        <item>STI@SunTrust Banks, Inc.</item>
+        <item>STJ@St. Jude Medical Inc.</item>
+        <item>STT@State Street Corporation</item>
+        <item>STX@Seagate Technology Public Limited Company</item>
+        <item>STZ@Constellation Brands Inc.</item>
+        <item>SWK@Stanley Black &amp; Decker, Inc.</item>
+        <item>SWN@Southwestern Energy Co.</item>
+        <item>SWY@Safeway Inc.</item>
+        <item>SYK@Stryker Corporation</item>
+        <item>SYMC@Symantec Corporation</item>
+        <item>SYY@Sysco Corporation</item>
+        <item>T@AT&amp;T, Inc.</item>
+        <item>TAP@Molson Coors Brewing Company</item>
+        <item>TDC@Teradata Corporation</item>
+        <item>TE@TECO Energy, Inc.</item>
+        <item>TEG@Integrys Energy Group, Inc.</item>
+        <item>TEL@TE Connectivity Ltd.</item>
+        <item>TGT@Target Corp.</item>
+        <item>THC@Tenet Healthcare Corp.</item>
+        <item>TIF@Tiffany &amp; Co.</item>
+        <item>TJX@The TJX Companies, Inc.</item>
+        <item>TMK@Torchmark Corporation</item>
+        <item>TMO@Thermo Fisher Scientific, Inc.</item>
+        <item>TRIP@TripAdvisor Inc.</item>
+        <item>TROW@T. Rowe Price Group, Inc.</item>
+        <item>TRV@The Travelers Companies, Inc.</item>
+        <item>TSCO@Tractor Supply Company</item>
+        <item>TSN@Tyson Foods, Inc.</item>
+        <item>TSO@Tesoro Corporation</item>
+        <item>TSS@Total System Services, Inc.</item>
+        <item>TWC@Time Warner Cable Inc.</item>
+        <item>TWX@Time Warner Inc.</item>
+        <item>TXN@Texas Instruments Inc.</item>
+        <item>TXT@Textron Inc.</item>
+        <item>TYC@Tyco International Ltd.</item>
+        <item>UA@Under Armour, Inc.</item>
+        <item>UHS@Universal Health Services Inc.</item>
+        <item>UNH@UnitedHealth Group Incorporated</item>
+        <item>UNM@Unum Group</item>
+        <item>UNP@Union Pacific Corporation</item>
+        <item>UPS@United Parcel Service, Inc.</item>
+        <item>URBN@Urban Outfitters Inc.</item>
+        <item>URI@United Rentals, Inc.</item>
+        <item>USB@U.S. Bancorp</item>
+        <item>UTX@United Technologies Corporation</item>
+        <item>V@Visa Inc.</item>
+        <item>VAR@Varian Medical Systems, Inc.</item>
+        <item>VFC@V.F. Corporation</item>
+        <item>VIAB@Viacom, Inc.</item>
+        <item>VLO@Valero Energy Corporation</item>
+        <item>VMC@Vulcan Materials Company</item>
+        <item>VNO@Vornado Realty Trust</item>
+        <item>VRSN@VeriSign, Inc.</item>
+        <item>VRTX@Vertex Pharmaceuticals Incorporated</item>
+        <item>VTR@Ventas, Inc.</item>
+        <item>VZ@Verizon Communications Inc.</item>
+        <item>WAT@Waters Corporation</item>
+        <item>WBA@Walgreens Boots Alliance, Inc.</item>
+        <item>WDC@Western Digital Corporation</item>
+        <item>WEC@Wisconsin Energy Corp.</item>
+        <item>WFC@Wells Fargo &amp; Company</item>
+        <item>WFM@Whole Foods Market, Inc.</item>
+        <item>WHR@Whirlpool Corp.</item>
+        <item>WIN@Windstream Holdings, Inc.</item>
+        <item>WM@Waste Management, Inc.</item>
+        <item>WMB@Williams Companies, Inc.</item>
+        <item>WMT@Wal-Mart Stores Inc.</item>
+        <item>WU@The Western Union Company</item>
+        <item>WY@Weyerhaeuser Co.</item>
+        <item>WYN@Wyndham Worldwide Corporation</item>
+        <item>WYNN@Wynn Resorts Ltd.</item>
+        <item>XEC@Cimarex Energy Co.</item>
+        <item>XEL@Xcel Energy Inc.</item>
+        <item>XL@XL Group plc</item>
+        <item>XLNX@Xilinx Inc.</item>
+        <item>XOM@Exxon Mobil Corporation</item>
+        <item>XRAY@DENTSPLY International Inc.</item>
+        <item>XRX@Xerox Corporation</item>
+        <item>XYL@Xylem Inc.</item>
+        <item>YHOO@Yahoo! Inc.</item>
+        <item>YUM@Yum! Brands, Inc.</item>
+        <item>ZION@Zions Bancorporation</item>
+        <item>ZMH@Zimmer Holdings, Inc.</item>
+        <item>ZTS@Zoetis Inc.</item>
+    </string-array>
