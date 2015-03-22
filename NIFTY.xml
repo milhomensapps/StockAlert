@@ -1,0 +1,495 @@
+<string-array name="Nifty">
+        <item>^NSEI@Nifty Index</item>
+        <item>3MINDIA.NS@3M India Limited</item>
+        <item>ABB.NS@ABB India Limited</item>
+        <item>ABGSHIP.NS@ABG Shipyard Limited</item>
+        <item>ACC.NS@ACC Limited</item>
+        <item>AIAENG.NS@AIA Engineering Ltd.</item>
+        <item>AARTIIND.NS@Aarti Industries Ltd.</item>
+        <item>ABAN.NS@Aban Offshore Limited</item>
+        <item>ADANIENT.NS@Adani Enterprises Limited</item>
+        <item>ADANIPORT.NS@ADANI PORT &amp; SEZ LTD</item>
+        <item>ABIRLANUV.NS@Aditya Birla Nuvo Limited</item>
+        <item>ADVANTA.NS@Advanta Limited</item>
+        <item>ATFL.NS@Agro Tech Foods Limited</item>
+        <item>AJANTPHAR.NS@Ajanta Pharma Ltd.</item>
+        <item>AKZOINDIA.NS@Akzo Nobel India Limited</item>
+        <item>APLLTD.NS@Alembic Pharmaceuticals Limited</item>
+        <item>ALBK.NS@Allahabad Bank</item>
+        <item>ALLCARGO.NS@Allcargo Logistics Limited</item>
+        <item>ALOKTEXT.NS@Alok Industries Ltd.</item>
+        <item>AIL.NS@ALSTOM INDIA LIMITED</item>
+        <item>AMARAJABAT-EQ.NS@AMARA RAJA BATT DEPO</item>
+        <item>AMBUJACEM.NS@Ambuja Cements Limited</item>
+        <item>AMTEKAUTO.NS@Amtek Auto Ltd.</item>
+        <item>AMTEKINDI.NS@Amtek India Ltd.</item>
+        <item>ANANTRAJ.NS@Anant Raj Limited</item>
+        <item>ANDHRABAN.NS@Andhra Bank</item>
+        <item>ANSALAPI.NS@Ansal Properties &amp; Infrastructure Ltd.</item>
+        <item>APARINDS.NS@Apar Industries Limited</item>
+        <item>APOLLOHOSP-EQ.NS@APOLLO HOSPITALS LTD-DEPO</item>
+        <item>APOLLOTYRE-EQ.NS@APOLLOTYRENPP270999DEPO</item>
+        <item>ARVIND.NS@Arvind Limited</item>
+        <item>ASAHIINDIA-EQ.NS@10 % CUM. RED PREF</item>
+        <item>ASHOKLEY.NS@Ashok Leyland Limited</item>
+        <item>ASHOKA.NS@Ashoka Buildcon Ltd.</item>
+        <item>ASIANPAIN.NS@Asian Paints Limited</item>
+        <item>ASTRAZEN.NS@AstraZeneca Pharma India Limited</item>
+        <item>ASTRAL.NS@Astral Poly Technik Limited</item>
+        <item>ATUL.NS@Atul Ltd.</item>
+        <item>AUROPHARM.NS@AUROBINDO PHARMA NPP DEPO</item>
+        <item>AUTOAXLES.NS@Automotive Axles Ltd.</item>
+        <item>AXISBANK.NS@AXIS Bank Limited</item>
+        <item>BASF.NS@BASF India Limited</item>
+        <item>BEML.NS@BEML Limited</item>
+        <item>BFUTILITI.NS@BF Utilities Ltd.</item>
+        <item>BGRENERGY.NS@BGR Energy Systems Limited</item>
+        <item>BAJAJ-AUTO-EQ.NS@BAJAJ AUTO LIMITED</item>
+        <item>BAJAJCORP.NS@Bajaj Corp Limited</item>
+        <item>BAJAJELEC.NS@Bajaj Electricals Limited</item>
+        <item>BAJFINANC.NS@BAJAJ FINANCE LIMITED</item>
+        <item>BAJAJFINS.NS@BAJAJ FINSERV LIMITED</item>
+        <item>BAJAJHIND.NS@Bajaj Hindusthan Ltd.</item>
+        <item>BAJAJHLDN.NS@Bajaj Holdings &amp; Investment Limited</item>
+        <item>BALKRISIN.NS@Balkrishna Industries Ltd.</item>
+        <item>BALLARPUR.NS@Ballarpur Industries Limited</item>
+        <item>BALMLAWRI.NS@Balmer Lawrie and Company Limited</item>
+        <item>BALRAMCHIN-EQ.NS@BALRAMCHINNPP310100DEPO</item>
+        <item>BANKBAROD.NS@Bank of Baroda</item>
+        <item>BANKINDIA.NS@Bank of India</item>
+        <item>BATAINDIA.NS@BATA INDIA DEP RS</item>
+        <item>BERGEPAIN.NS@Berger Paints India Limited</item>
+        <item>BEL.NS@Bharat Electronics Limited</item>
+        <item>BHARATFOR.NS@Bharat Forge Limited</item>
+        <item>BHEL.NS@Bharat Heavy Electricals Ltd.</item>
+        <item>BPCL.NS@Bharat Petroleum Corp. Ltd.</item>
+        <item>BHARTIART.NS@Bharti Airtel Limited</item>
+        <item>INFRATEL.NS@Bharti Infratel Limited</item>
+        <item>BHUSANSTL.NS@Bhushan Steel Limited</item>
+        <item>BIOCON.NS@Biocon Limited</item>
+        <item>BIRLACORP.NS@Birla Corporation Limited</item>
+        <item>BLUEDART.NS@Blue Dart Express Ltd.</item>
+        <item>BLUESTARC.NS@Blue Star Limited</item>
+        <item>BBTC.NS@The Bombay Burmah Trading Corporation Limited</item>
+        <item>BOMDYEING.NS@The Bombay Dyeing and Manufacturing Company Limited</item>
+        <item>BOSCHLTD.NS@Bosch Ltd</item>
+        <item>BRIGADE.NS@Brigade Enterprises Limited</item>
+        <item>BRITANNIA.NS@Britannia Industries Limited</item>
+        <item>CARERATIN.NS@CREDIT ANALYSIS AND RESEARCH LT</item>
+        <item>CESC.NS@CESC Limited</item>
+        <item>CMC.NS@CMC Limited</item>
+        <item>CRISIL.NS@CRISIL Limited</item>
+        <item>CADILAHC.NS@Cadila Healthcare Limited</item>
+        <item>CAIRN.NS@Cairn India Limited</item>
+        <item>CANFINHOME-EQ.NS@CANFIN HOMES LTD</item>
+        <item>CANBK.NS@Canara Bank Limited</item>
+        <item>CAPF.NS@CAPITAL FIRST LIMITED</item>
+        <item>CARBORUNI.NS@Carborundum Universal Limited</item>
+        <item>CASTROLIND-EQ.NS@Castrol India Limited</item>
+        <item>CENTRALBK.NS@Central Bank of India</item>
+        <item>CENTENKA.NS@Century Enka Ltd.</item>
+        <item>CENTURYPL.NS@Century Plyboards</item>
+        <item>CENTURYTE.NS@Century Textiles and Industries Limited</item>
+        <item>CHAMBLFER.NS@Chambal Fertilisers and Chemicals Ltd.</item>
+        <item>CHENNPETR.NS@Chennai Petroleum Corporation Ltd</item>
+        <item>CHOLAFIN.NS@Cholamandalam Investment and Finance Company Ltd.</item>
+        <item>CIPLA.NS@Cipla Limited</item>
+        <item>CUB.NS@City Union Bank Ltd.</item>
+        <item>CLNINDIA.NS@Clariant Chemicals</item>
+        <item>COALINDIA.NS@Coal India Limited</item>
+        <item>COLPAL.NS@Colgate-Palmolive</item>
+        <item>CONCOR.NS@Container Corporation of India Ltd.</item>
+        <item>COROMANDE.NS@Coromandel International Limited</item>
+        <item>CORPBANK.NS@Corporation Bank</item>
+        <item>CROMPGREA.NS@Crompton Greaves Limited</item>
+        <item>CUMMINSIND-EQ.NS@CUMMINS INDIA LTD</item>
+        <item>CYIENT-EQ.NS@CYIENT LIMITED</item>
+        <item>DBREALTY.NS@DB Realty Ltd</item>
+        <item>DBCORP.NS@D. B. Corp Limited</item>
+        <item>DCBBANK-EQ.NS@DCB BANK LIMITED</item>
+        <item>DCMSHRIRAM-EQ.NS@DCM SHRIRAM LIMITED</item>
+        <item>DCW.NS@DCW Limited</item>
+        <item>DLF.NS@DLF Limited</item>
+        <item>DABUR.NS@Dabur India Ltd.</item>
+        <item>DEEPAKFER.NS@Deepak Fertilisers And Petrochemicals Corporation Limited</item>
+        <item>DELTACORP.NS@Delta Corp Limited</item>
+        <item>DEN.NS@DEN Networks Limited</item>
+        <item>DENABANK.NS@Dena Bank Ltd.</item>
+        <item>DHFL.NS@DEWAN HOUSING FIN CORP</item>
+        <item>DHANBANK.NS@Dhanlaxmi Bank Limited</item>
+        <item>DISHMAN.NS@Dishman Pharmaceuticals and Chemicals Ltd.</item>
+        <item>DIVISLAB.NS@Divi\'s Laboratories Limited</item>
+        <item>DRREDDY.NS@Dr. Reddy\'s Laboratories Ltd.</item>
+        <item>DREDGECOR.NS@Dredging Corp. of India Ltd.</item>
+        <item>EIDPARRY.NS@E.I.D.- Parry</item>
+        <item>EIHOTEL.NS@EIH Ltd.</item>
+        <item>ESABINDIA.NS@ESAB India Limited</item>
+        <item>EDELWEISS.NS@Edelweiss Financial Services Limited</item>
+        <item>EDUCOMP.NS@Educomp Solutions Limited</item>
+        <item>EICHERMOT.NS@Eicher Motors Ltd.</item>
+        <item>ELDERPHAR.NS@Elder Pharmaceuticals</item>
+        <item>ELECTCAST.NS@Electrosteel Castings Limited</item>
+        <item>ELGIEQUIP.NS@ELGI Equipments Limited</item>
+        <item>EMAMILTD.NS@Emami Limited</item>
+        <item>ENGINERSI.NS@Engineers India Limited</item>
+        <item>ENIL.NS@Entertainment Network</item>
+        <item>EROSMEDIA.NS@Eros International Media Limited</item>
+        <item>ESCORTS.NS@Escorts Limited</item>
+        <item>ESSDEE.NS@Ess Dee Aluminium Limited</item>
+        <item>ESSELPACK.NS@Essel Propack Limited</item>
+        <item>EXIDEIND.NS@Exide Industries Limited</item>
+        <item>FDC.NS@FDC Limited</item>
+        <item>FAGBEARIN.NS@Fag Bearings India Ltd.</item>
+        <item>FEDERALBN.NS@Federal Bank Ltd.</item>
+        <item>FMGOETZE.NS@Federal-Mogul Goetze</item>
+        <item>FINANTECH.NS@Financial Technologies</item>
+        <item>FINCABLES.NS@Finolex Cables Ltd.</item>
+        <item>FINPIPE.NS@Finolex Industries Limited</item>
+        <item>FSL.NS@Firstsource Solutions Limited</item>
+        <item>FLEXITUFF.NS@Flexituff International Limited</item>
+        <item>FORTIS.NS@Fortis Healthcare Limited</item>
+        <item>FRL-EQ.NS@FUTURE RETAIL LIMITED</item>
+        <item>GAIL.NS@GAIL</item>
+        <item>GHCL.NS@GHCL Limited</item>
+        <item>GMRINFRA.NS@GMR Infrastructure Limited</item>
+        <item>GTLINFRA.NS@GTL Infrastructure Ltd.</item>
+        <item>GVKPIL.NS@GVK Power and Infrastructure Limited</item>
+        <item>GABRIEL.NS@Gabriel India Limited</item>
+        <item>GAMMONIND.NS@Gammon India Limited</item>
+        <item>GAMMNINFRA-EQ.NS@GAMMON INFRASTRUCTURE PRO</item>
+        <item>GDL.NS@Gateway Distriparks Limited</item>
+        <item>GATI.NS@Gati Ltd</item>
+        <item>GEOJITBNPP-EQ.NS@GEOJIT BNP P. FIN SER LTD</item>
+        <item>GEOMETRIC.NS@Geometric Limited</item>
+        <item>GILLETTE.NS@Gillette India Limited</item>
+        <item>GITANJALI.NS@Gitanjali Gems Ltd.</item>
+        <item>GSKCONS.NS@GlaxoSmithKline Consumer Healthcare Limited</item>
+        <item>GLAXO.NS@GlaxoSmithkline Pharmaceuticals Limited</item>
+        <item>GLENMARK.NS@Glenmark Pharmaceuticals Ltd.</item>
+        <item>GODFRYPHL.NS@Godfrey Phillips India Limited</item>
+        <item>GODREJCP.NS@Godrej Consumer Products Limited</item>
+        <item>GODREJIND.NS@Godrej Industries Ltd.</item>
+        <item>GODREJPRO.NS@Godrej Properties Limited</item>
+        <item>GRAPHITE.NS@Graphite India Ltd.</item>
+        <item>GRASIM.NS@Grasim Industries Limited</item>
+        <item>GESHIP.NS@The Great Eastern Shipping Company Limited</item>
+        <item>GREAVESCO.NS@Greaves Cotton Limited</item>
+        <item>GRUH.NS@GRUH Finance Limited</item>
+        <item>GUJALKALI.NS@Gujarat Alkalies and Chemicals Limited</item>
+        <item>GUJFLUORO.NS@Gujarat Fluorochemicals Limited</item>
+        <item>GUJRATGAS.NS@Gujarat Gas Company Limited</item>
+        <item>GIPCL.NS@Gujarat Industries Power Co. Ltd.</item>
+        <item>GMDCLTD.NS@Gujarat Mineral Development Corporation Limited</item>
+        <item>GUJNRECOK.NS@Gujarat NRE Coke Ltd.</item>
+        <item>GNFC.NS@Gujarat Narmada Valley Fertilizers &amp; Chemicals Limited</item>
+        <item>GPPL.NS@Gujarat Pipavav Port Limited</item>
+        <item>GSFC.NS@Gujarat State Fertilizers &amp; Chemicals Ltd.</item>
+        <item>GSPL.NS@Gujarat State Petronet Limited</item>
+        <item>HEG.NS@HEG Limited</item>
+        <item>HCL-INSYS-EQ.NS@HCL INFOSYSTEMS-DEPO SETT</item>
+        <item>HCLTECH.NS@HCL Technologies Ltd.</item>
+        <item>HDFCBANK.NS@HDFC Bank Ltd.</item>
+        <item>HSIL.NS@HSIL Limited</item>
+        <item>HTMEDIA.NS@HT Media Limited</item>
+        <item>HATHWAY.NS@Hathway Cable &amp; Datacom Ltd.</item>
+        <item>HAVELLS.NS@Havells India Ltd.</item>
+        <item>HERITGFOOD-EQ.NS@HERITAGEFOODS</item>
+        <item>HEROMOTOC.NS@HERO MOTOCORP LIMITED</item>
+        <item>HEXAWARE.NS@Hexaware Technologies Limited</item>
+        <item>HFCL.NS@Himachal Futuristic Communications Ltd.</item>
+        <item>HIMATSEID.NS@Himatsingka Seide Ltd.</item>
+        <item>HINDALCO.NS@Hindalco Industries Ltd.</item>
+        <item>HCC.NS@Hindustan Construction Co. Ltd.</item>
+        <item>HINDCOPPE.NS@Hindustan Copper Ltd.</item>
+        <item>HINDOILEX.NS@Hindustan Oil Exploration Company Limited</item>
+        <item>HINDPETRO.NS@Hindustan Petroleum Corporation Limited</item>
+        <item>HINDUNILVR-EQ.NS@HINDUSTAN UNILEVER LTD</item>
+        <item>HINDZINC.NS@Hindustan Zinc Ltd.</item>
+        <item>HONAUT.NS@Honeywell Automation India Limited</item>
+        <item>HOTELEELA.NS@Hotel Leelaventure Limited</item>
+        <item>HDFC.NS@Housing Development Finance Corporation Limited</item>
+        <item>HDIL.NS@Housing Development &amp; Infrastructure Limited</item>
+        <item>HUBTOWN.NS@ACKRUTI CITY LIMITED</item>
+        <item>ITC.NS@ITC Limited</item>
+        <item>ICICIBANK.NS@ICICI Bank Ltd.</item>
+        <item>ICRA.NS@ICRA Limited</item>
+        <item>IDBI.NS@IDBI Bank Limited</item>
+        <item>IDFC.NS@IDFC Limited</item>
+        <item>IFCI.NS@IFCI Limited</item>
+        <item>IIFL-EQ.NS@IIFL HOLDINGS LIMITED</item>
+        <item>INGVYSYAB.NS@ING Vysya Bank Limited</item>
+        <item>IRB.NS@IRB Infrastructure Developers Limited</item>
+        <item>IVRCLINFR.NS@IVRCL Limited</item>
+        <item>IDEA.NS@Idea Cellular Ltd.</item>
+        <item>INDIACEM.NS@The India Cements Limited</item>
+        <item>IBULHSGFIN-EQ.NS@Indiabulls Hsg Fin Ltd</item>
+        <item>IBREALEST.NS@Indiabulls Real Estate Limited</item>
+        <item>IBSEC.NS@Indiabulls Securities Limited</item>
+        <item>INDIANB.NS@Indian Bank</item>
+        <item>INDHOTEL.NS@The Indian Hotels Company Limited</item>
+        <item>IMFA.NS@Indian Metals &amp; Ferro Alloys Limited</item>
+        <item>IOC.NS@Indian Oil Corporation Limited</item>
+        <item>IOB.NS@Indian Overseas Bank</item>
+        <item>IGL.NS@Indraprastha Gas Limited</item>
+        <item>INDUSINDBK-EQ.NS@INDUSIND DEPO SETT</item>
+        <item>NAUKRI-EQ.NS@INFO EDGE</item>
+        <item>INFY.NS@INFOSYS LIMITED</item>
+        <item>INGERRAND.NS@Ingersoll-Rand</item>
+        <item>INOXLEISU.NS@Inox Leisure Limited</item>
+        <item>IPCALAB.NS@Ipca Laboratories Limited</item>
+        <item>JBCHEPHAR.NS@J. B. Chemicals &amp; Pharmaceuticals Ltd.</item>
+        <item>JKIL.NS@J.Kumar Infraprojects Limited</item>
+        <item>JBFIND.NS@JBF Industries Limited</item>
+        <item>JKLAKSHMI.NS@JK Lakshmi Cement Limited</item>
+        <item>JKTYRE.NS@JK Tyre &amp; Industries Limited</item>
+        <item>JMFINANCIL-EQ.NS@JM FINANCIAL LIMITED</item>
+        <item>JSWENERGY.NS@JSW Energy Limited</item>
+        <item>JSWHL-EQ.NS@JSW HOLDINGS LIMITED</item>
+        <item>JSWSTEEL.NS@JSW Steel Ltd.</item>
+        <item>JAGRAN.NS@Jagran Prakashan Ltd</item>
+        <item>JAICORPLT.NS@Jai Corp Limited</item>
+        <item>JISLJALEQS-EQ.NS@JAIN IRRIGATION SYSTEMS</item>
+        <item>JPASSOCIA.NS@Jaiprakash Associates Limited</item>
+        <item>JPPOWER.NS@Jaiprakash Power Ventures Limited</item>
+        <item>JPINFRATE.NS@Jaypee Infratech Limited</item>
+        <item>JINDALSAW-EQ.NS@JINDAL SAW LIMITED</item>
+        <item>JSL.NS@Jindal Stainless Limited</item>
+        <item>JINDALSTEL-EQ.NS@JINDALSTEL-DEPO</item>
+        <item>JUBLFOOD.NS@Jubilant FoodWorks Limited</item>
+        <item>JUBILANT.NS@Jubilant Life Sciences Limited</item>
+        <item>JUSTDIAL-EQ.NS@Justdial Ltd.</item>
+        <item>JYOTHYLAB.NS@Jyothy Laboratories Limited</item>
+        <item>JYOTISTRUC-EQ.NS@JYOTI STRUCTURES</item>
+        <item>KCP.NS@The KCP Limited</item>
+        <item>KPIT.NS@KPIT Technologies Limited</item>
+        <item>KSBPUMPS.NS@KSB Pumps Limited</item>
+        <item>KSK.NS@KSK Energy Ventures Limited</item>
+        <item>KAJARIACE.NS@Kajaria Ceramics Limited</item>
+        <item>KALPATPOW.NS@Kalpataru Power Transmission Limited</item>
+        <item>KANSAINER.NS@Kansai Nerolac Paints Ltd</item>
+        <item>KTKBANK.NS@Karnataka Bank Ltd.</item>
+        <item>KARURVYSY.NS@Karur Vysya Bank</item>
+        <item>KSCL.NS@Kaveri Seed Company Limited</item>
+        <item>KEC-EQ.NS@KEC INTERNATIONAL LIMITED</item>
+        <item>KESORAMIN.NS@Kesoram Industries Ltd.</item>
+        <item>KKCL.NS@Kewal Kiran Clothing Limited</item>
+        <item>KITEX.NS@Kitex Garments Ltd.</item>
+        <item>KOLTEPATI.NS@Kolte-Patil Developers Limited</item>
+        <item>KOTAKBANK.NS@Kotak Mahindra Bank Limited</item>
+        <item>LICHSGFIN.NS@LIC Housing Finance Ltd.</item>
+        <item>LAXMIMACH.NS@Lakshmi Machine Works Limited</item>
+        <item>LAKSHVILA.NS@The Lakshmi Vilas Bank Limited</item>
+        <item>LITL.NS@Lanco Infratech Limited</item>
+        <item>LT.NS@Larsen &amp; Toubro Limited</item>
+        <item>LINDEINDIA-EQ.NS@LINDE INDIA LIMITED</item>
+        <item>LOVABLE.NS@Lovable Lingerie Limited</item>
+        <item>LUPIN.NS@Lupin Limited</item>
+        <item>MMTC.NS@MMTC Ltd.</item>
+        <item>MOIL.NS@MOIL Limited</item>
+        <item>MRF.NS@MRF Ltd.</item>
+        <item>MTEDUCARE.NS@MT Educare Limited</item>
+        <item>MAGMA.NS@Magma Fincorp Limited</item>
+        <item>MAHSCOOTE.NS@Maharashtra Scooters Ltd.</item>
+        <item>MAHSEAMLE.NS@Maharashtra Seamless Limited</item>
+        <item>MHRIL.NS@Mahindra Holidays and Resorts India Ltd.</item>
+        <item>MAHLIFE.NS@Mahindra Lifespace Developers Ltd.</item>
+        <item>MANDHANA.NS@Mandhana Industries Limited</item>
+        <item>MANGCHEFE.NS@Mangalore Chemicals &amp; Fertilizers Limited</item>
+        <item>MRPL.NS@Mangalore Refinery and Petrochemicals Limited</item>
+        <item>MARICO.NS@Marico Limited</item>
+        <item>MARUTI.NS@Maruti Suzuki India Limited</item>
+        <item>MASTEK.NS@Mastek Limited</item>
+        <item>MAX.NS@Max India Limited</item>
+        <item>MCLEODRUS.NS@McLeod Russel India Limited</item>
+        <item>MERCATOR.NS@MERCATOR LIMITED</item>
+        <item>MERCK.NS@Merck Ltd.</item>
+        <item>MINDTREE.NS@MindTree Limited</item>
+        <item>MONNETISP.NS@Monnet Ispat &amp; Energy Limited</item>
+        <item>MONSANTO.NS@Monsanto India Limited</item>
+        <item>MOTHERSUMI-EQ.NS@MOTHERSUMI</item>
+        <item>MOTILALOFS-EQ.NS@MOTILAL OSWAL FINANCIAL S</item>
+        <item>MPHASIS.NS@MphasiS Limited</item>
+        <item>MUTHOOTFI.NS@NCD SEC OPT1</item>
+        <item>NCC.NS@NCC Limited</item>
+        <item>NHPC.NS@NHPC Ltd.</item>
+        <item>NIITLTD.NS@NIIT Ltd.</item>
+        <item>NIITTECH.NS@NIIT Technologies Limited</item>
+        <item>NMDC.NS@NMDC Limited</item>
+        <item>NOCIL.NS@NOCIL Limited</item>
+        <item>NTPC.NS@NTPC Ltd.</item>
+        <item>NATIONALU.NS@National Aluminium Co. Ltd.</item>
+        <item>NBCC.NS@National Buildings Construction Corporation Limited</item>
+        <item>NBVENTURE.NS@Nava Bharat Ventures Limited</item>
+        <item>NAVNETEDUL-EQ.NS@NAVNEET EDUCATION LTD</item>
+        <item>NETWORK18.NS@Network18 Media &amp; Investments Limited</item>
+        <item>NEYVELILI.NS@Neyveli Lignite Corporation Limited</item>
+        <item>NITINFIRE.NS@Nitin Fire Protection Industries Limited</item>
+        <item>NOIDATOLL.NS@Noida Toll Bridge Company Limited</item>
+        <item>OBEROIRLTY-EQ.NS@OBEROI REALTY LIMITED</item>
+        <item>ONGC.NS@Oil and Natural Gas Corp. Ltd.</item>
+        <item>OIL.NS@Oil India Limited</item>
+        <item>OMAXE.NS@Omaxe Ltd.</item>
+        <item>OPTOCIRCU.NS@Opto Circuits</item>
+        <item>OFSS.NS@Oracle Financial Services Software Limited</item>
+        <item>ORCHIDCHEM-EQ.NS@ORCHID CHEMICALS</item>
+        <item>ORIENTBANK-EQ.NS@ORIENTAL BANK OF COMM-DEP</item>
+        <item>ORISSAMIN.NS@The Orissa Minerals Development Company Limited</item>
+        <item>BINDALAGRO-EQ.NS@OSWAL CHEM &amp; FERT-DEP SET</item>
+        <item>PIIND.NS@PI Industries Ltd.</item>
+        <item>PFS.NS@PTC India Financial Services Limited</item>
+        <item>PTC.NS@PTC India Limited</item>
+        <item>PVR.NS@PVR Limited</item>
+        <item>PAGEIND.NS@Page Industries Limited</item>
+        <item>PARSVNATH.NS@Parsvnath Developers Limited</item>
+        <item>PATELENG.NS@Patel Engineering Ltd.</item>
+        <item>PENINLAND.NS@Peninsula Land Limited</item>
+        <item>PERSISTEN.NS@Persistent Systems Limited</item>
+        <item>PETRONET.NS@Petronet LNG Ltd.</item>
+        <item>PFIZER.NS@Pfizer Limited</item>
+        <item>PHOENIXLTD-EQ.NS@THE PHOENIX MILLS LIMITED</item>
+        <item>PIDILITIND-EQ.NS@PIDILITIND DEPO</item>
+        <item>PIPAVAVDO.NS@PIPAVAV DEF &amp; OFFSHR ENG</item>
+        <item>PEL.NS@Piramal Enterprises Limited</item>
+        <item>PFC.NS@Power Finance Corporation Limited</item>
+        <item>POWERGRID.NS@Power Grid Corporation of India Limited</item>
+        <item>PRAJIND.NS@Praj Industries Ltd.</item>
+        <item>PRAKASH.NS@Prakash Industries Limited</item>
+        <item>PRESTIGE.NS@Prestige Estates Projects Limited</item>
+        <item>PFOCUS.NS@Prime Focus Limited</item>
+        <item>PRISMCEM.NS@Prism Cement Limited</item>
+        <item>PGHH.NS@Procter &amp; Gamble Hygiene and Health Care Limited</item>
+        <item>PUNJLLOYD.NS@Punj Lloyd Ltd.</item>
+        <item>PNB.NS@Punjab National Bank</item>
+        <item>PURVA.NS@Puravankara Projects Limited</item>
+        <item>RADICO.NS@Radico Khaitan Ltd.</item>
+        <item>RAIN-EQ.NS@RAIN INDUSTRIES LIMITED</item>
+        <item>RAJTV-EQ.NS@RAJ TELEVISION NETWORK LI</item>
+        <item>RAJESHEXPO-EQ.NS@RAJESH EXPORTS LTD</item>
+        <item>RALLIS.NS@Rallis India Limited</item>
+        <item>RAMCOIND.NS@Ramco Industries Limited</item>
+        <item>RCF.NS@Rashtriya Chemicals And Fertilizers Limited</item>
+        <item>RASOYPR-EQ.NS@RASOYA PROTEINS LTD</item>
+        <item>RATNAMANI.NS@Ratnamani Metals &amp; Tubes Limited</item>
+        <item>RTNPOWER-EQ.NS@RATTANINDIA POWER LIMITED</item>
+        <item>RAYMOND.NS@Raymond Limited</item>
+        <item>REDINGTON.NS@Redington</item>
+        <item>REIAGROLTD-EQ.NS@REI AGRO LIMITED</item>
+        <item>RELCAPITA.NS@Reliance Capital Limited</item>
+        <item>RCOM.NS@Reliance Communications Ltd.</item>
+        <item>RIIL.NS@Reliance Industrial Infrastructure Limited</item>
+        <item>RELIANCE.NS@Reliance Industries Limited</item>
+        <item>RELINFRA.NS@Reliance Infrastructure Ltd</item>
+        <item>RPOWER.NS@Reliance Power Limited</item>
+        <item>RELIGARE.NS@Religare Enterprises Limited</item>
+        <item>REPCOHOME-EQ.NS@Repco Home Finance Ltd</item>
+        <item>ROLTA.NS@Rolta India Limited</item>
+        <item>RUCHISOYA.NS@Ruchi Soya Industries Limited</item>
+        <item>RECLTD.NS@Rural Electrification Corporation Limited</item>
+        <item>SEINV.NS@S.E. Investments Limited</item>
+        <item>SKFINDIA.NS@SKF India Ltd.</item>
+        <item>SKSMICRO.NS@SKS Microfinance Limited</item>
+        <item>SREINFRA.NS@SREI Infrastructure Finance Limited</item>
+        <item>SRF.NS@SRF Limited</item>
+        <item>SADBHAV.NS@Sadbhav Engineering, Ltd.</item>
+        <item>SANOFI.NS@AVENTIS PHARMA LIMITED</item>
+        <item>SSLT-EQ.NS@SESA STERLITE LIMITED</item>
+        <item>SHANTIGEAR-EQ.NS@SHANTHI GEARS LTD</item>
+        <item>SHASUNPHAR-EQ.NS@SHASUN PHARMA LIMITED</item>
+        <item>SCI.NS@The Shipping Corporation of India Limited</item>
+        <item>SHOPERSTOP-EQ.NS@SHOPPERS STOP LIMITED</item>
+        <item>SHREECEM.NS@Shree Cement Limited</item>
+        <item>RENUKA.NS@Shree Renuka Sugars Limited</item>
+        <item>SHRENUJ.NS@Shrenuj &amp; Company Limited</item>
+        <item>SHRIRAMCI.NS@Shriram City Union Finance Limited</item>
+        <item>SRTRANSFIN-EQ.NS@SHRIRAM TRANSPORT</item>
+        <item>SIEMENS.NS@Siemens Limited</item>
+        <item>SIMPLEXINF-EQ.NS@SIMPLEX INFRASTRUCTURES L</item>
+        <item>SINTEX.NS@Sintex Industries Limited</item>
+        <item>SOBHA.NS@Sobha Limited</item>
+        <item>SONASTEER.NS@Sona Koyo Steering Systems Limited</item>
+        <item>SONATSOFTW-EQ.NS@SONATSOFTW-DEPO</item>
+        <item>SOUTHBANK.NS@The South Indian Bank Ltd.</item>
+        <item>SBBJ.NS@State Bank of Bikaner &amp; Jaipur</item>
+        <item>SBIN.NS@State Bank of India</item>
+        <item>SBT.NS@State Bank of Travancore</item>
+        <item>SAIL.NS@Steel Authority of India Limited</item>
+        <item>STRTECH.NS@Sterlite Technologies Limited</item>
+        <item>STAR.NS@Strides Arcolab Ltd.</item>
+        <item>SPARC.NS@Sun Pharma Advanced Research Company Limited</item>
+        <item>SUNPHARMA.NS@Sun Pharmaceutical Industries Limited</item>
+        <item>SUNTV.NS@Sun TV Network Ltd</item>
+        <item>SUNDARMFI.NS@Sundaram Finance Limited</item>
+        <item>SUNDRMFAS.NS@Sundram Fasteners Limited</item>
+        <item>SUNTECK.NS@Sunteck Realty Limited</item>
+        <item>SUPREMEIN.NS@The Supreme Industries Limited</item>
+        <item>SUPREMEIN.NS@The Supreme Industries Limited</item>
+        <item>SUPPETRO.NS@Supreme Petrochem Limited</item>
+        <item>SUZLON.NS@Suzlon Energy Limited</item>
+        <item>SWANENERG.NS@SWAN ENERGY LIMITED</item>
+        <item>SWARAJENG.NS@Swaraj Engines Ltd.</item>
+        <item>SYNDIBANK.NS@Syndicate Bank Limited</item>
+        <item>TDPOWERSY.NS@TD POWER SYSTEMS LTD.</item>
+        <item>TTKPRESTI.NS@TTK Prestige Ltd.</item>
+        <item>TVTODAY.NS@T.V. Today Network Limited</item>
+        <item>TV18BRDCS.NS@TV18 BROADCAST LIMITED</item>
+        <item>TVSMOTOR.NS@TVS Motor Company Limited</item>
+        <item>TNPL.NS@Tamil Nadu Newsprint and Papers Limited</item>
+        <item>TATACHEM.NS@Tata Chemicals Limited</item>
+        <item>TATACOFFE.NS@Tata Coffee Ltd.</item>
+        <item>TATACOMM.NS@Tata Communications Limited</item>
+        <item>TCS.NS@Tata Consultancy Services Limited</item>
+        <item>TATAELXSI.NS@Tata Elxsi Limited</item>
+        <item>TATAGLOBAL-EQ.NS@TATA GLOBAL BEVERAGES LTD</item>
+        <item>TATAINVES.NS@Tata Investment Corporation Ltd.</item>
+        <item>TATAMOTOR.NS@Tata Motors Limited</item>
+        <item>TATAPOWER.NS@The Tata Power Company Limited</item>
+        <item>TATASPONGE-EQ.NS@TATA SPONGE IRON LTD-DEPO</item>
+        <item>TATASTEEL.NS@Tata Steel Limited</item>
+        <item>TECHM.NS@Tech Mahindra Limited</item>
+        <item>TECHNO.NS@Techno Electric &amp; Engineering Company Limited</item>
+        <item>RAMCOCEM-EQ.NS@THE RAMCO CEMENTS LIMITED</item>
+        <item>THERMAX.NS@Thermax Ltd.</item>
+        <item>THOMASCOO.NS@Thomas Cook</item>
+        <item>TI.NS@Tilaknagar Industries Ltd.</item>
+        <item>TITAN.NS@Titan Company Limited</item>
+        <item>TORNTPHAR.NS@Torrent Pharmaceuticals Ltd.</item>
+        <item>TORNTPOWE.NS@Torrent Power Limited</item>
+        <item>TREEHOUSE.NS@Tree House Education &amp; Accessories Limited</item>
+        <item>TRENT.NS@Trent Ltd.</item>
+        <item>TBZ.NS@Tribhovandas Bhimji Zaveri Limited</item>
+        <item>TRIDENT.NS@TRIDENT LIMITED</item>
+        <item>TUBEINVES.NS@Tube Investments of India Limited</item>
+        <item>UCOBANK.NS@UCO Bank</item>
+        <item>UFLEX.NS@Uflex Limited</item>
+        <item>UPL-EQ.NS@UPL LIMITED</item>
+        <item>ULTRACEMC.NS@UltraTech Cement Limited</item>
+        <item>UNICHEMLA.NS@Unichem Laboratories Limited</item>
+        <item>UNIONBANK.NS@Union Bank of India</item>
+        <item>UNITECH.NS@Unitech Ltd.</item>
+        <item>UBL.NS@United Breweries Limited</item>
+        <item>USHAMART.NS@Usha Martin Limited</item>
+        <item>UTTAMSTL.NS@Uttam Galva Steels Limited</item>
+        <item>VIPIND.NS@VIP Industries Limited</item>
+        <item>VSTIND.NS@VST Industries Limited</item>
+        <item>WABAG.NS@VA TECH WABAG LTD</item>
+        <item>VAIBHAVGBL-EQ.NS@VAIBHAV GLOBAL LIMITED</item>
+        <item>VAKRANGEE-EQ.NS@VAKANGEE LIMITED</item>
+        <item>VTL.NS@Vardhman Textiles Limited</item>
+        <item>VENKEYS.NS@Venky\'s</item>
+        <item>VESUVIUS.NS@Vesuvius India Limited</item>
+        <item>VIDEOIND.NS@Videocon Industries Ltd.</item>
+        <item>VIJAYABANK-EQ.NS@VIJAYA BANK</item>
+        <item>VOLTAS.NS@Voltas Ltd.</item>
+        <item>WABCOINDI.NS@WABCO INDIA LIMITED</item>
+        <item>WELCORP.NS@Welspun Corp Limited</item>
+        <item>WELSPUNIN.NS@Welspun India Ltd.</item>
+        <item>WHEELS.NS@Wheels India Limited</item>
+        <item>WHIRLPOOL.NS@Whirlpool of India Limited</item>
+        <item>WIPRO.NS@Wipro Ltd.</item>
+        <item>WOCKPHARMA-EQ.NS@WOCKHARDT LIMITED</item>
+        <item>YESBANK.NS@Yes Bank Limited</item>
+        <item>ZEEL.NS@Zee Entertainment Enterprises Ltd.</item>
+        <item>ZENSARTEC.NS@Zensar Technologies Limited</item>
+        <item>ZYDUSWELL.NS@Zydus Wellness Limited</item>
+        <item>ECLERX.NS@eClerx Services Limited</item>
+    </string-array>
