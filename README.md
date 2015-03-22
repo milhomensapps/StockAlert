@@ -9,5 +9,5 @@ You can add a market to the list at the markets.xml file and you can update the 
 The symbols contained in every file, have to match with the symbols that uses Yahoo Finance
 
 For example:  Grifols Symbol at the Mercado Continuo is  GRF.MC
-              The URL to get Grifols information would be  http://finance.yahoo.com/q?s=GRF.MC
+The URL to get Grifols information would be  http://finance.yahoo.com/q?s=GRF.MC
         
