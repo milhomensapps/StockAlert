@@ -1,0 +1,123 @@
+<string-array name="MercatContinu">
+        <item>A3M.MC@ATRESMEDIA</item>
+        <item>ABE.MC@ABERTIS</item>
+        <item>ABG.MC@ABENGOA -A-</item>
+        <item>ABG-P.MC@ABENGOA -B-</item>
+        <item>ACS.MC@ACS</item>
+        <item>ACX.MC@ACERINOX</item>
+        <item>ADV.MC@ADVEO GROUP INTL</item>
+        <item>ADZ.MC@ADOLFO DOMINGUEZ</item>
+        <item>AIR.MC@AIRBUS GROUP</item>
+        <item>AENA.MC@AENA</item>
+        <item>ALB.MC@CORP. FIN. ALBA</item>
+        <item>ALM.MC@ALMIRALL</item>
+        <item>AMP.MC@AMPER</item>
+        <item>AMS.MC@AMADEUS IT HOLD -A-</item>
+        <item>ANA.MC@ACCIONA</item>
+        <item>APAM.MC@APERAM REG.</item>
+        <item>APPS.MC@APPLUS SERVICES</item>
+        <item>AXIA.MC@AXIA REAL ESTATE</item>
+        <item>AZK.MC@AZKOYEN</item>
+        <item>BAY.MC@BAYER N</item>
+        <item>BBVA.MC@BBVA</item>
+        <item>BDL.MC@BARON DE LEY</item>
+        <item>BIO.MC@BIOSEARCH</item>
+        <item>BKIA.MC@BANKIA SA</item>
+        <item>BKT.MC@BANKINTER</item>
+        <item>BME.MC@BOLSAS Y MERCADOS</item>
+        <item>CABK.MC@CAIXABANK</item>
+        <item>CAF.MC@CAF</item>
+        <item>CBAV.MC@CLINICA BAVIERA</item>
+        <item>CDR.MC@CODERE</item>
+        <item>CIE.MC@CIE AUTOMOTIVE</item>
+        <item>COL.MC@INMOB COLONIAL</item>
+        <item>CPL.MC@CEMENTOS PORTLAND V</item>
+        <item>CUN.MC@VINICOLA NORTE ESP</item>
+        <item>DGI.MC@DOGI INT FABRICS</item>
+        <item>DIA.MC@DIA</item>
+        <item>DIN.MC@Dinamia Common</item>
+        <item>EBRO.MC@EBRO FOODS</item>
+        <item>ECG.MC@EUROCONSULT GROUP</item>
+        <item>ECR.MC@ERCROS</item>
+        <item>EDR.MC@EDREAMS ODIGEO REG</item>
+        <item>EGPW.MC@ENEL GREEN POWER</item>
+        <item>ELE.MC@ENDESA</item>
+        <item>ENC.MC@ENCE ENERGIA</item>
+        <item>ENG.MC@ENAGAS</item>
+        <item>ENO.MC@ELECNOR</item>
+        <item>EZE.MC@GRUPO EZENTIS</item>
+        <item>FAE.MC@FAES FARMA</item>
+        <item>FCC.MC@FOMENTO CONSTR.</item>
+        <item>FDR.MC@FLUIDRA</item>
+        <item>FER.MC@FERROVIAL</item>
+        <item>FRS.MC@FERSA</item>
+        <item>FUN.MC@FUNESPANA</item>
+        <item>GALQ.MC@GAM</item>
+        <item>GAM.MC@GAMESA</item>
+        <item>GAS.MC@GAS NATURAL SDG</item>
+        <item>GCO.MC@GRUPO CATALANA OCC</item>
+        <item>GRF.MC@GRIFOLS A</item>
+        <item>GRF-P.MC@GRIFOLS B</item>
+        <item>GSJ.MC@GRP EMPR S JOSE</item>
+        <item>HIS.MC@HISPANIA ACTIVOS</item>
+        <item>HMR.MC@HOME MEAL</item>
+        <item>IBE.MC@IBERDROLA</item>
+        <item>IBG.MC@IBERPAPEL</item>
+        <item>IAG.MC@INTL. CONS. AIR GRP</item>
+        <item>IDR.MC@INDRA SISTEMAS -A-</item>
+        <item>IKM.MC@1NKEMIA IUCT</item>
+        <item>INY.MC@INYPSA</item>
+        <item>ITX.MC@INDITEX</item>
+        <item>JAZ.MC@JAZZTEL</item>
+        <item>LBK.MC@LIBERBANK</item>
+        <item>LGT.MC@LINGOTES ESPECIALES</item>
+        <item>LOG.MC@LOGISTA</item>
+        <item>LRE.MC@LAR ESPANA</item>
+        <item>MAP.MC@MAPFRE</item>
+        <item>MCM.MC@MIQUEL Y COSTAS</item>
+        <item>MDF.MC@DURO FELGUERA</item>
+        <item>MEL.MC@MELIA HOTELS</item>
+        <item>MRL.MC@MERLIN PROP.</item>
+        <item>MTB.MC@MONTEBALITO</item>
+        <item>MTS.MC@ARCELORMITTAL REG</item>
+        <item>NAT.MC@NATRA</item>
+        <item>NEA.MC@NICOLAS CORREA</item>
+        <item>NHH.MC@NH HOTEL GROUP</item>
+        <item>NTC.MC@NATRACEUTICAL</item>
+        <item>OHL.MC@OHL</item>
+        <item>OLE.MC@DEOLEO</item>
+        <item>PAC.MC@PAPELES Y CARTONES</item>
+        <item>POP.MC@BCO POPULAR ESPANOL</item>
+        <item>PRM.MC@PRIM</item>
+        <item>PRS.MC@PRISA -A-</item>
+        <item>PSG.MC@PROSEGUR</item>
+        <item>QBT.MC@QUABIT IMMO</item>
+        <item>R4.MC@RENTA 4 BANCO</item>
+        <item>RDM.MC@RENO DE MEDICI</item>
+        <item>REE.MC@RED ELECTRICA CORP</item>
+        <item>REN.MC@RENTA CORPORACION</item>
+        <item>REP.MC@REPSOL</item>
+        <item>RIO.MC@BODEGAS RIOJANAS</item>
+        <item>RLIA.MC@REALIA BUSINESS</item>
+        <item>ROVI.MC@LABOR. FARMAC. ROVI</item>
+        <item>SAB.MC@BANCO SABADELL</item>
+        <item>SAN.MC@BANCO SANTANDER</item>
+        <item>SAY.MC@SAETA YIELD</item>
+        <item>SCYR.MC@SACYR</item>
+        <item>SLR.MC@SOLARIA ENERGIA</item>
+        <item>STG.MC@SOTOGRANDE</item>
+        <item>TEC.MC@TECNOCOM</item>
+        <item>TEF.MC@TELEFONICA</item>
+        <item>TL5.MC@MEDIASET ESPANA</item>
+        <item>TRE.MC@TECNICAS REUNIDAS</item>
+        <item>TRG.MC@TUBOS REUNIDOS</item>
+        <item>TST.MC@TESTA INMUEBLES</item>
+        <item>TUB.MC@TUBACEX</item>
+        <item>UBS.MC@URBAS GRUPO FIN.</item>
+        <item>URA.MC@URALITA</item>
+        <item>VID.MC@VIDRALA</item>
+        <item>VIS.MC@VISCOFAN</item>
+        <item>VOC.MC@VOCENTO R</item>
+        <item>ZEL.MC@ZELTIA</item>
+        <item>ZOT.MC@ZARDOYA OTIS</item>
+    </string-array>
