@@ -16,9 +16,9 @@ Some markets  need no additional files becaouse Yahoo Finance alrady have alread
 Otherwise, you can add or update the stocks from a market that can not be accessed automatically updating / creating a file on the repository. Once done, make me a pull request and if everything is all right, I will include it.
 
 For example:  
-    To update a stock in the Mercado Continuo we should change MC.xml file
-    Grifols Symbol at the Mercado Continuo is  GRF.MC , 
-    The URL to get Grifols information would be  http://finance.yahoo.com/q?s=GRF.MC
+    To update a stock in the Mercado Continuo we should change MC.xml file.
+    Grifols Symbol at the Mercado Continuo is  GRF.MC . 
+    The URL to get Grifols information would be  http://finance.yahoo.com/q?s=GRF.MC .
 
 Remeber that the  **Symbols** contained in every file, **have to match with** the symbols that uses **Yahoo Finance**.
 
